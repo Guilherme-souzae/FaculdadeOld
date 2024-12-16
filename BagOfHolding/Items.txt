@@ -1,0 +1,423 @@
+Espada Vorpal
+Felipe
+Necromancia
+666
+90
+-1 -1
+0
+
+Escudao
+Guilherme
+Abjuracao
+777
+50
+-1 -1
+0
+
+Triforce
+Joao
+Necromancia
+123
+89
+-1 -1
+0
+
+Ocarina do tempo
+Joao
+Encantamento
+543
+99
+-1 -1
+0
+
+MasterSword
+Guilherme
+Encantamento
+144
+40
+-1 -1
+0
+
+Arco de personagem
+Guilherme
+Ilusao
+65
+65
+-1 -1
+0
+
+Armadura draconica
+Felipe
+Abjuracao
+47
+65
+-1 -1
+0
+
+Flor vampirica
+Joao
+Necromancia
+616
+100
+-1 -1
+0
+
+Escudo da Fe
+Joao
+Abjuracao
+31
+82
+-1 -1
+0
+
+Manto da Invisibilidade
+Guilherme
+Ilusao
+34
+78
+-1 -1
+0
+
+Anel da Protecao
+Guilherme
+Abjuracao
+41
+69
+-1 -1
+0
+
+Cetro da Tempestade
+Felipe
+Evocacao
+52
+88
+-1 -1
+0
+
+Grimorio do Arcanista
+Joao
+Conjuracao
+64
+75
+-1 -1
+0
+
+Botas da Agilidade
+Joao
+Transmutacao
+78
+93
+-1 -1
+0
+
+Espelho das Almas
+Guilherme
+Necromancia
+83
+57
+-1 -1
+0
+
+Espada da Justica
+Guilherme
+Evocacao
+91
+80
+-1 -1
+0
+
+Elmo do Dragao
+Felipe
+Abjuracao
+102
+73
+-1 -1
+0
+
+Varinha da Cura
+Joao
+Abjuracao
+117
+85
+-1 -1
+0
+
+Livro dos Segredos
+Joao
+Ilusao
+123
+90
+-1 -1
+0
+
+Colar da Serenidade
+Guilherme
+Encantamento
+134
+77
+-1 -1
+0
+
+Lamina do Gelo
+Guilherme
+Conjuracao
+148
+81
+-1 -1
+0
+
+Bracelete da Forca
+Felipe
+Transmutacao
+157
+68
+-1 -1
+0
+
+Tomo da Sabedoria
+Joao
+Conjuracao
+168
+92
+-1 -1
+0
+
+Arco do Cacador
+Joao
+Transmutacao
+173
+74
+-1 -1
+0
+
+Coroa da Clarividencia
+Guilherme
+Adivinhacao
+181
+86
+-1 -1
+0
+
+Orbe do Destino
+Guilherme
+Adivinhacao
+192
+79
+-1 -1
+0
+
+Pingente do Futuro
+Felipe
+Adivinhacao
+203
+91
+-1 -1
+0
+
+Bola de Cristal
+Joao
+Adivinhacao
+215
+88
+-1 -1
+0
+
+Anel do Conhecimento
+Joao
+Adivinhacao
+226
+84
+-1 -1
+0
+
+Manto do Oraculo
+Guilherme
+Adivinhacao
+237
+82
+-1 -1
+0
+
+Livro das Profecias
+Guilherme
+Adivinhacao
+248
+95
+-1 -1
+0
+
+Espelho do Vidente
+Felipe
+Adivinhacao
+259
+77
+-1 -1
+0
+
+Tiara do Sagrado
+Joao
+Adivinhacao
+270
+90
+-1 -1
+0
+
+Cetro da Precognicao
+Joao
+Adivinhacao
+281
+85
+-1 -1
+0
+
+Amuleto do Pressagio
+Guilherme
+Adivinhacao
+314
+91
+-1 -1
+0
+
+Capa da Invisibilidade
+Guilherme
+Ilusao
+325
+89
+-1 -1
+0
+
+Escudo do Guardiao
+Felipe
+Abjuracao
+336
+76
+-1 -1
+0
+
+Cetro da Chama
+Joao
+Evocacao
+347
+82
+-1 -1
+0
+
+Anel da Armazenagem
+Joao
+Conjuracao
+358
+88
+-1 -1
+0
+
+Botas do Caminhante
+Guilherme
+Transmutacao
+369
+77
+-1 -1
+0
+
+Espada das Sombras
+Guilherme
+Necromancia
+380
+92
+-1 -1
+0
+
+Tiara da Verdade
+Felipe
+Encantamento
+391
+85
+-1 -1
+0
+
+Grimorio do Necromante
+Joao
+Necromancia
+402
+79
+-1 -1
+0
+
+Bracelete do Poder
+Joao
+Transmutacao
+413
+84
+-1 -1
+0
+
+Varinha da Luz
+Guilherme
+Evocacao
+424
+90
+-1 -1
+0
+
+Colar do Vidente
+Guilherme
+Adivinhacao
+435
+87
+-1 -1
+0
+
+Escudo do Heroi
+Felipe
+Abjuracao
+446
+81
+-1 -1
+0
+
+Livro dos Encantos
+Joao
+Encantamento
+457
+93
+-1 -1
+0
+
+Arco das Fadas
+Joao
+Ilusao
+468
+80
+-1 -1
+0
+
+Cetro do Arcanjo
+Guilherme
+Conjuracao
+479
+86
+-1 -1
+0
+
+Pingente da Claridade
+Guilherme
+Adivinhacao
+490
+89
+-1 -1
+0
+
+Lamina da Sombra
+Felipe
+Necromancia
+501
+78
+-1 -1
+0
+
+Elmo do Guerreiro
+Joao
+Abjuracao
+512
+82
+-1 -1
+0
