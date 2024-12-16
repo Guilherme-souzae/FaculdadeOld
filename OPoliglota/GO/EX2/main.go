@@ -1,0 +1,19 @@
+package main
+
+import (
+	"math/rand"
+	"fmt"
+)
+
+func fatorial(x int) int {
+	if x == 0 {
+		return 1
+	}
+	return x * fatorial(x-1)
+}
+
+func main() {
+	x := rand.Intn(10)
+
+	fmt.Println(fatorial(x))
+}
